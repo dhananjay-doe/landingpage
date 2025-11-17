@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Name | Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Header Section -->
+  <header id="header">
+    <div class="container">
+      <h1>Your Name</h1>
+      <p class="tagline">Your Tagline or Short Intro</p>
+    </div>
+  </header>
+
+  <!-- About Section -->
+  <section id="about">
+    <div class="container">
+      <h2>About Me</h2>
+      <img src="your-photo.jpg" alt="Your Name">
+      <p>Write a short bio here highlighting your skills, experience, what you’re passionate about, etc.</p>
+    </div>
+  </section>
+
+  <!-- Skills Section -->
+  <section id="skills">
+    <div class="container">
+      <h2>Skills</h2>
+      <ul class="skills-list">
+        <li>Skill One</li>
+        <li>Skill Two</li>
+        <li>Skill Three</li>
+        <li>Skill Four</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Projects Section -->
+  <section id="projects">
+    <div class="container">
+      <h2>Projects</h2>
+
+      <div class="project">
+        <h3>Project Title One</h3>
+        <img src="project1.jpg" alt="Project One">
+        <p>Short description of what you did, technologies used, your role, etc.</p>
+      </div>
+
+      <div class="project">
+        <h3>Project Title Two</h3>
+        <img src="project2.jpg" alt="Project Two">
+        <p>Short description of the second project.</p>
+      </div>
+
+      <!-- Add more projects as needed -->
+
+    </div>
+  </section>
+
+  <!-- Resume Section -->
+  <section id="resume">
+    <div class="container">
+      <h2>Resume</h2>
+      <p>You can download my resume here: <a href="YourResume.pdf" download>Download PDF</a></p>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <div class="container">
+      <h2>Contact</h2>
+      <p>Email: your.email@example.com</p>
+      <p>Phone: +91-XXXXXXXXXX</p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer id="footer">
+    <div class="container">
+      <p>© 2025 Your Name. All rights reserved.</p>
+      <!-- You can add links to social media or other info here -->
+    </div>
+  </footer>
+
+</body>
+</html>
